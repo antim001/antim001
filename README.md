@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antim001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antim001&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -82,8 +82,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antim001&theme=tokyonight" />
 </p>
-
----
 
 ## 🎯 Current Focus
 - ☁️ Cloud Architecture
